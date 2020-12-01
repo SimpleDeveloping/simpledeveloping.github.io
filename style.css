@@ -1,0 +1,26 @@
+body {
+    background-color: whitesmoke;
+}
+h1, h2, h3 {
+    font-family: monospace;
+    font-size: 18;
+}
+h4, h5, h6 {
+    font-family: monospace;
+    font-size: 16;
+}
+p {
+    font-family: fantasy;
+    font-size: 14;
+}
+.main {
+    width: auto;
+    background: cyan;
+}
+.navbar {
+    width: auto;
+    background-color: darkcyan;
+}
+a {
+    text-decoration: none;
+}
